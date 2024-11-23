@@ -1,0 +1,42 @@
+{
+    "HomePage": {
+      "title": "Welcome to My Website!!",
+      "name":"Firstname-Lastname:",
+      "updateImage":"Edit Image:",
+      "back":"Back",
+      "submit":"Submit",
+      "snackbar":"Edit user profile success!!"
+    },
+    "SideBar":  {
+        "Home":"Home",
+        "Contact":"Contact",
+        "CurrentLocation":"Current Location",
+        "ContactList":"Contact List",
+        "ContacForm":"Contact Form"
+    },
+    "ContactForm": {
+      "title": "Create Contact",
+      "name":"Firstname Lastname",
+      "age":"Age",
+      "back":"Back to Create List",
+      "submit":"Submit",
+      "success":"Create contact success!!",
+      "close":"close",
+      "validateName":"name is required",
+      "validateAge":"age is required"
+    },
+    "ContactList": {
+      "title": "List Contact",
+      "name":"Name",
+      "age":"Age",
+      "search":"Search",
+      "clear":"Clear Search"
+    },
+    "Footer": {
+      "address": "Address",
+      "tel":"Tel",
+      "email":"Email",
+      "line":"Line ID"
+    }
+    
+}
